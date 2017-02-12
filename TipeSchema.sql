@@ -1,10 +1,69 @@
 --
--- File generated with SQLiteStudio v3.0.7 on jue oct 13 23:45:15 2016
+-- File generated with SQLiteStudio v3.1.1 on dom feb 12 19:26:35 2017
 --
 -- Text encoding used: UTF-8
 --
 PRAGMA foreign_keys = off;
 BEGIN TRANSACTION;
+
+-- Table: alumno
+CREATE TABLE alumno (id_alumno integer PRIMARY KEY AUTOINCREMENT NOT NULL, apellidos text, nombre text, fechanacimiento text, padre text, madre text, direccion text, telcasa integer (9), movilpa integer (9), movilma integer (9), emailnene text, photopath text, observaciones TEXT, nacionalidad TEXT);
+INSERT INTO alumno (id_alumno, apellidos, nombre, fechanacimiento, padre, madre, direccion, telcasa, movilpa, movilma, emailnene, photopath, observaciones, nacionalidad) VALUES (1, 'VALES', 'ENCARNA', '1973-08-15', 'José', 'Encarnación', 'C/ No me acuerdo 23, 1º A 28080 Madrid', 919199199, 666666666, 666666662, 'notengomail@gmail.com', '', '', 'ESPAÑOLA');
+
+-- Table: anotacion
+CREATE TABLE anotacion (id_anotacion INTEGER PRIMARY KEY AUTOINCREMENT, id_esturel INTEGER REFERENCES alumno (id_alumno), tipo TEXT, fecha TEXT, detalle TEXT, id_grouprel INTEGER REFERENCES grupo_materia (id_grupo_materia));
+
+-- Table: asistencia
+CREATE TABLE asistencia (id_asistencia INTEGER PRIMARY KEY AUTOINCREMENT, id_grupo_materia_rel INTEGER REFERENCES grupo_materia (id_grupo_materia), id_alumno_rel INTEGER REFERENCES alumno (id_alumno), date TEXT, type TEXT, modificado TEXT, timestamp TEXT, periodo INTEGER);
+
+-- Table: bloque
+CREATE TABLE "bloque" (
+
+  "id_bloque" integer PRIMARY KEY AUTOINCREMENT NOT NULL,
+
+  "id_materia_rel" integer NOT NULL,
+
+  "blq_denominacion" text NOT NULL,
+
+  "contenidos" text NOT NULL
+
+);
+INSERT INTO bloque (id_bloque, id_materia_rel, blq_denominacion, contenidos) VALUES (1, 1, 'Bloque 1. Expresión Plástica', 'Materiales y Técnicas. Técnicas seca, húmedas y mixtas. Soportes. Aplicación en el proceso creativo. Pautas de trabajo colectivo. El punto, la línea y el plano como elementos definidores de la forma. Cualidades de la forma. Valores expresivos. Textura: Visuales, táctiles, artificiales y naturales. Técnicas para conseguir texturas como el frottage, el collage y la estampación. El color. Principios básicos de la teoría del color. Síntesis aditiva y síntesis sustractiva. Aplicación de las técnicas en trabajos de color. La tridimensionalidad. Paso de lo bidimensional a lo tridimensional con diferentes materiales.');
+INSERT INTO bloque (id_bloque, id_materia_rel, blq_denominacion, contenidos) VALUES (2, 1, 'Bloque 2. Expresión Audiovisual', 'La percepción visual. Principio perceptivo de figura y fondo. Conceptos de figuración y abstracción. Proceso de lectura de una imagen. Análisis connotativo y denotativo. Elementos y funciones del proceso comunicativo. Iniciación a la fotografía. Encuadre, puntos de vista y valor expresivo. Iniciación a la imagen en movimiento. Uso responsable y educativo de las TIC. Programas básicos y aplicaciones de dispositivos móviles para el tratamiento digital de la imagen.');
+INSERT INTO bloque (id_bloque, id_materia_rel, blq_denominacion, contenidos) VALUES (3, 1, 'Bloque 3. Dibujo Técnico aplicado a proyectos', 'Materiales específicos de dibujo técnico. Elementos básicos del dibujo técnico. Punto. Línea. Tipos de líneas (recta, curva, semirrecta, segmento, quebrada). Posiciones relativas de las rectas (rectas secantes, paralelas y perpendiculares). Suma y resta de segmentos. Mediatriz. Plano -definición-. La circunferencia y sus elementos. Posiciones relativas de las circunferencias. Ángulos: tipos. Suma y resta. Medición de ángulos. Bisectriz. Teorema de Thales. Los polígonos. Clasificación. -Triángulos: clasificación, construcción, resolución de problemas básicos. Cuadriláteros: clasificación, construcción y resolución de problemas básicos. Construcción de polígonos regulares inscritos en la circunferencia. Simetría, giro y traslación. Iniciación a la representación de vistas sencillas.');
+
+-- Table: criterio
+CREATE TABLE "criterio" (
+
+  "id_criterio" integer PRIMARY KEY AUTOINCREMENT NOT NULL,
+
+  "crit_denominacion" text NOT NULL,
+
+  "id_bloque_rel" integer NOT NULL
+
+);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (1, 'Conocer y aplicar las posibilidades expresivas de las técnicas gráfico-plásticas secas, humedas y mixtas en composiciones personales y colectivas.', 1);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (2, 'Identificar y experimentar con las variaciones formales del punto, la línea y el plano.', 1);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (3, 'Diferenciar entre los diferentes tipos de textura y valorar sus capacidades expresivas en aplicaciones prácticas.', 1);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (4, 'Identificar las propiedades del color luz y color pigmento.', 1);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (5, 'Experimentar con los colores pigmento primarios, secundarios y complementarios.', 1);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (6, 'Experimentar con diferentes técnicas y materiales creando figuras tridimensionales.', 1);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (7, 'Identificar los elementos y factores que intervienen en el proceso de percepción de imágenes.', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (8, 'Diferenciar imágenes figurativas de abstractas', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (9, 'Describir, analizar e interpretar una imagen distinguiendo los aspectos denotativo y connotativo de la misma.', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (10, 'Diferenciar y analizar los distintos elementos que intervienen en un acto de comunicación.', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (11, 'Reconocer las diferentes funciones de la comunicación.', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (12, 'Analizar fotografías comprendiendo los fundamentos estéticos y formales.', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (13, 'Conocer los fundamentos de la imagen en movimiento, explorando las posibilidades expresivas del lenguaje cinematográfico.', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (14, 'Valorar las aportaciones de las tecnologías digitales al proceso artístico y ser capaz de elaborar documentos mediante las mismas.', 2);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (15, 'Conocer y manipular las herramientas de dibujo técnico.', 3);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (16, 'Comprender los conceptos del punto, la línea y el plano, diferenciando cláramente los distintos tipos de recta, pudiendo trazar las distintas posiciones relativas y las mediatrices donde corresponda.', 3);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (17, 'Conocer los conceptos de círculo, circunferencia y sus elementos.', 3);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (18, 'Conocer el concepto de ángulo, sus tipos y realizar operaciones varias.', 3);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (19, 'Estudiar las aplicaciones del teorema de Thales.', 3);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (20, 'Conoce la clasificación de los polígonos y sus trazados', 3);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (21, 'Conocer los conceptos de simetrías, giros y traslaciones sencillos aplicándolos al diseño de composiciones con módulos.', 3);
+INSERT INTO criterio (id_criterio, crit_denominacion, id_bloque_rel) VALUES (22, 'Comprender y practicar el procedimiento del dibujo de vistas de volúmenes elementales.', 3);
 
 -- Table: estandar
 CREATE TABLE "estandar" (
