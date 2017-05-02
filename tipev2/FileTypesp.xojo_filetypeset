@@ -1,0 +1,62 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=ApplicationMsword
+		DocIcon=tipev2.xojo_resources;&h0
+		Extension=.doc;.docx
+		Flags=&h0
+		MacCreator=MSWD
+		MacType=WDBN
+		Name=application/msword
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=Pdf
+		DocIcon=tipev2.xojo_resources;&h252254
+		Extension=.pdf
+		Flags=&h0
+		MacCreator=prvw
+		MacType=PDF 
+		Name=application/pdf
+		UTI=com.adobe.pdf
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationVndMsExcel
+		DocIcon=tipev2.xojo_resources;&h4A44A8
+		Extension=.xl;xls;xlsx
+		Flags=&h0
+		MacCreator=XCEL
+		MacType=XLS 
+		Name=application/vnd.ms-excel
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationZip
+		DocIcon=tipev2.xojo_resources;&h6F66FC
+		Extension=.zip
+		Flags=&h0
+		MacCreator=SITx
+		MacType=ZIP 
+		Name=application/zip
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+#tag EndFileTypeSet
