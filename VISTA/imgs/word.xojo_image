@@ -1,0 +1,39 @@
+#tag MultiImage
+Image word
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFeAAAAAAFeAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYId29yZC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/VkdC8qyQAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADQvJ0UAAAAAQAMAA/VtgAP1bUABPs2AAIALFJBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AHdvcmQucG5nAA4AEgAIAHcAbwByAGQALgBwAG4AZwAPABAABwBSAEEASQBEAF8ASQBOABIAIi9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3Mvd29yZC5wbmcAEwAQL1ZvbHVtZXMvUkFJRF9JTv//AAAAAAAAAAA=
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/word.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

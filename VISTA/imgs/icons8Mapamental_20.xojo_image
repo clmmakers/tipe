@@ -1,0 +1,39 @@
+#tag MultiImage
+Image icons8Mapamental_20
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAIGAAAAAAIGAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1cEZaWNvbnM4LU1hcGEgbWVudGFsXzIwLnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/XgdWfbAIAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAAH2ljb25zOC1NYXBhIG1lbnRhbCAyMCwgNTAjRkQ1QzEAABAACAAAzGOYngAAABEACAAA1Z9P4gAAAAEAEAAP1cEAD9W2AA/VtQAE+zYAAgBeUkFJRF9JTjpEcm9wYm94OgBwcm9qX3RpcGV2MzoAaW1nczoAaWNvbnM4LU1hcGEgbWVudGFsIDIwLCA1MCNGRDVDMToAaWNvbnM4LU1hcGEgbWVudGFsXzIwLnBuZwAOADQAGQBpAGMAbwBuAHMAOAAtAE0AYQBwAGEAIABtAGUAbgB0AGEAbABfADIAMAAuAHAAbgBnAA8AEAAHAFIAQQBJAEQAXwBJAE4AEgBVL0Ryb3Bib3gvcHJval90aXBldjMvaW1ncy9pY29uczgtTWFwYSBtZW50YWwgMjAsIDUwLCAxMDAgcHgvaWNvbnM4LU1hcGEgbWVudGFsXzIwLnBuZwAAEwAQL1ZvbHVtZXMvUkFJRF9JTv//AAAAAAAAAAA=
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/icons8-Mapa mental 20, 50, 100 px/icons8-Mapa mental_20.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

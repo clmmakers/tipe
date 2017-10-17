@@ -1,0 +1,39 @@
+#tag MultiImage
+Image exc
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFeAAAAAAFeAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYIZXhjLmpwZWcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/VjtC8q0IAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADQvJ0yAAAAAQAMAA/VtgAP1bUABPs2AAIALFJBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGV4Yy5qcGVnAA4AEgAIAGUAeABjAC4AagBwAGUAZwAPABAABwBSAEEASQBEAF8ASQBOABIAIi9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3MvZXhjLmpwZWcAEwAQL1ZvbHVtZXMvUkFJRF9JTv//AAAAAAAAAAA=
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/exc.jpeg
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

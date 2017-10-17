@@ -1,0 +1,39 @@
+#tag MultiImage
+Image icons8ContabilidadFilled_20
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAIsAAAAAAIsAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1cIfaWNvbnM4LUNvbnRhYmlsaWRhZCBGI0ZENzg0LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/XhNWfbN4AAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAAH2ljb25zOC1Db250YWJpbGlkYWQgRmlsbGUjRkQ1QzIAABAACAAAzGOYngAAABEACAAA1Z9QvgAAAAEAEAAP1cIAD9W2AA/VtQAE+zYAAgBkUkFJRF9JTjpEcm9wYm94OgBwcm9qX3RpcGV2MzoAaW1nczoAaWNvbnM4LUNvbnRhYmlsaWRhZCBGaWxsZSNGRDVDMjoAaWNvbnM4LUNvbnRhYmlsaWRhZCBGI0ZENzg0LnBuZwAOAEQAIQBpAGMAbwBuAHMAOAAtAEMAbwBuAHQAYQBiAGkAbABpAGQAYQBkACAARgBpAGwAbABlAGQAXwAyADAALgBwAG4AZwAPABAABwBSAEEASQBEAF8ASQBOABIAZS9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3MvaWNvbnM4LUNvbnRhYmlsaWRhZCBGaWxsZWQgMjAsIDUwLCAxMDAgcHgvaWNvbnM4LUNvbnRhYmlsaWRhZCBGaWxsZWRfMjAucG5nAAATABAvVm9sdW1lcy9SQUlEX0lO//8AAAAAAAAAAA==
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/icons8-Contabilidad Filled 20, 50, 100 px/icons8-Contabilidad Filled_20.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

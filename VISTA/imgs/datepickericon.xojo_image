@@ -1,0 +1,39 @@
+#tag MultiImage
+Image datepickericon
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGGAAAAAAGGAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYSZGF0ZXBpY2tlcmljb24ucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/VrNQwHyYAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADUMAMGAAAAAQAMAA/VtgAP1bUABPs2AAIANlJBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGRhdGVwaWNrZXJpY29uLnBuZwAOACYAEgBkAGEAdABlAHAAaQBjAGsAZQByAGkAYwBvAG4ALgBwAG4AZwAPABAABwBSAEEASQBEAF8ASQBOABIALC9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3MvZGF0ZXBpY2tlcmljb24ucG5nABMAEC9Wb2x1bWVzL1JBSURfSU7//wAAAAAAAAAA
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/datepickericon.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

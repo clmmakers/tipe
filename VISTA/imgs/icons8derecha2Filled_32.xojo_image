@@ -1,0 +1,39 @@
+#tag MultiImage
+Image icons8derecha2Filled_32
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAG2AAAAAAG2AAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYeaWNvbnM4LWRlcmVjaGEgMiBGaWxsZWRfMzIucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABF3VtXcMvQAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADV3BbUAAAAAQAMAA/VtgAP1bUABPs2AAIAQlJBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGljb25zOC1kZXJlY2hhIDIgRmlsbGVkXzMyLnBuZwAOAD4AHgBpAGMAbwBuAHMAOAAtAGQAZQByAGUAYwBoAGEAIAAyACAARgBpAGwAbABlAGQAXwAzADIALgBwAG4AZwAPABAABwBSAEEASQBEAF8ASQBOABIAOC9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3MvaWNvbnM4LWRlcmVjaGEgMiBGaWxsZWRfMzIucG5nABMAEC9Wb2x1bWVzL1JBSURfSU7//wAAAAAAAAAA
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/icons8-derecha 2 Filled_32.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

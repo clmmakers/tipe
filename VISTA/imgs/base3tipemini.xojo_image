@@ -1,0 +1,39 @@
+#tag MultiImage
+Image base3tipemini
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGEAAAAAAGEAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYRYmFzZTN0aXBlbWluaS5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/VqtRRBa4AAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADUUPeeAAAAAQAMAA/VtgAP1bUABPs2AAIANVJBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGJhc2UzdGlwZW1pbmkucG5nAAAOACQAEQBiAGEAcwBlADMAdABpAHAAZQBtAGkAbgBpAC4AcABuAGcADwAQAAcAUgBBAEkARABfAEkATgASACsvRHJvcGJveC9wcm9qX3RpcGV2My9pbWdzL2Jhc2UzdGlwZW1pbmkucG5nAAATABAvVm9sdW1lcy9SQUlEX0lO//8AAAAAAAAAAA==
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/base3tipemini.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

@@ -1,0 +1,39 @@
+#tag MultiImage
+Image textfileinterface128
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGmAAAAAAGmAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYadGV4dC1maWxlLWludGVyZmFjZTEyOC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFW/dXLZ7AAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADVy0uQAAAAAQAMAA/VtgAP1bUABPs2AAIAPlJBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AHRleHQtZmlsZS1pbnRlcmZhY2UxMjgucG5nAA4ANgAaAHQAZQB4AHQALQBmAGkAbABlAC0AaQBuAHQAZQByAGYAYQBjAGUAMQAyADgALgBwAG4AZwAPABAABwBSAEEASQBEAF8ASQBOABIANC9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3MvdGV4dC1maWxlLWludGVyZmFjZTEyOC5wbmcAEwAQL1ZvbHVtZXMvUkFJRF9JTv//AAAAAAAAAAA=
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/text-file-interface128.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

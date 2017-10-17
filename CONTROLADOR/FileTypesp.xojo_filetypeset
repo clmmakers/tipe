@@ -1,0 +1,105 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=ApplicationMsword
+		DocIcon=tipev3.xojo_resources;&h0
+		Extension=.doc;.docx
+		Flags=&h0
+		MacCreator=MSWD
+		MacType=WDBN
+		Name=application/msword
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=Pdf
+		DocIcon=tipev3.xojo_resources;&hAA582C
+		Extension=.pdf
+		Flags=&h0
+		MacCreator=prvw
+		MacType=PDF 
+		Name=application/pdf
+		UTI=com.adobe.pdf
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationVndMsExcel
+		DocIcon=tipev3.xojo_resources;&h154B058
+		Extension=.xl;xls;xlsx
+		Flags=&h0
+		MacCreator=XCEL
+		MacType=XLS 
+		Name=application/vnd.ms-excel
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationZip
+		DocIcon=tipev3.xojo_resources;&h1FF0884
+		Extension=.zip
+		Flags=&h0
+		MacCreator=SITx
+		MacType=ZIP 
+		Name=application/zip
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=Text
+		DocIcon=tipev3.xojo_resources;&h2A960B0
+		Extension=.asc;.ascii;.bas;.c;.class;.cp;.cpp;.h;.hp;.hpp;.i3;.java;.m2;.m3;.mak;.text;.txt
+		Flags=&h0
+		MacCreator=????
+		MacType=TEXT
+		Name=text/plain
+		UTI=public.text
+		UTIConformsTo=public.data, public.content
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=xml
+		Extension=.xml
+		Flags=&h0
+		MacCreator=
+		MacType=XML
+		Name=text/xml
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=json
+		Extension=.json
+		Flags=&h0
+		MacCreator=
+		MacType=JSON
+		Name=text/json
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+#tag EndFileTypeSet

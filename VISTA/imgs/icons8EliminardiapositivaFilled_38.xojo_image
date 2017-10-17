@@ -1,0 +1,39 @@
+#tag MultiImage
+Image icons8EliminardiapositivaFilled_38
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHaAAAAAAHaAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYfaWNvbnM4LUVsaW1pbmFyIGRpYXAjMTE1NkQ5LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFW2dXbJLUAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADV2wiVAAAAAQAMAA/VtgAP1bUABPs2AAIAQ1JBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGljb25zOC1FbGltaW5hciBkaWFwIzExNTZEOS5wbmcAAA4AVAApAGkAYwBvAG4AcwA4AC0ARQBsAGkAbQBpAG4AYQByACAAZABpAGEAcABvAHMAaQB0AGkAdgBhACAARgBpAGwAbABlAGQAXwAzADgALgBwAG4AZwAPABAABwBSAEEASQBEAF8ASQBOABIAQy9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3MvaWNvbnM4LUVsaW1pbmFyIGRpYXBvc2l0aXZhIEZpbGxlZF8zOC5wbmcAABMAEC9Wb2x1bWVzL1JBSURfSU7//wAAAAAAAAAA
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/icons8-Eliminar diapositiva Filled_38.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

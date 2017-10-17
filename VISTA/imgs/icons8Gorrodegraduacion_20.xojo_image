@@ -1,0 +1,39 @@
+#tag MultiImage
+Image icons8Gorrodegraduacion_20
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHGAAAAAAHGAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYfaWNvbnM4LUdvcnJvIGRlIGdyYWR1I0ZENzdCLnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/Xe9WfevAAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADVn17QAAAAAQAMAA/VtgAP1bUABPs2AAIAQ1JBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGljb25zOC1Hb3JybyBkZSBncmFkdSNGRDc3Qi5wbmcAAA4ARgAiAGkAYwBvAG4AcwA4AC0ARwBvAHIAcgBvACAAZABlACAAZwByAGEAZAB1AGEAYwBpAG8DAQBuAF8AMgAwAC4AcABuAGcADwAQAAcAUgBBAEkARABfAEkATgASAD0vRHJvcGJveC9wcm9qX3RpcGV2My9pbWdzL2ljb25zOC1Hb3JybyBkZSBncmFkdWFjaW/MgW5fMjAucG5nAAATABAvVm9sdW1lcy9SQUlEX0lO//8AAAAAAAAAAA==
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/icons8-Gorro de graduación_20.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

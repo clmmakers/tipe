@@ -1,0 +1,39 @@
+#tag MultiImage
+Image greentick
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF2AAAAAAF2AAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYOZ3JlZW4tdGljay5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/VoNRbregAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADUW5/YAAAAAQAMAA/VtgAP1bUABPs2AAIAMlJBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGdyZWVuLXRpY2sucG5nAA4AHgAOAGcAcgBlAGUAbgAtAHQAaQBjAGsALgBwAG4AZwAPABAABwBSAEEASQBEAF8ASQBOABIAKC9Ecm9wYm94L3Byb2pfdGlwZXYzL2ltZ3MvZ3JlZW4tdGljay5wbmcAEwAQL1ZvbHVtZXMvUkFJRF9JTv//AAAAAAAAAAA=
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/green-tick.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

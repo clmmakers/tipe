@@ -1,0 +1,39 @@
+#tag MultiImage
+Image icons8Arribaizquierdaencírculo2Filled_32
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAH4AAAAAAH4AAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYfaWNvbnM4LUFycmliYSBpenF1aWUjMTE3N0I4LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABF3uNXcLhQAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADV3BH0AAAAAQAMAA/VtgAP1bUABPs2AAIAQ1JBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AGljb25zOC1BcnJpYmEgaXpxdWllIzExNzdCOC5wbmcAAA4AaAAzAGkAYwBvAG4AcwA4AC0AQQByAHIAaQBiAGEAIABpAHoAcQB1AGkAZQByAGQAYQAgAGUAbgAgAGMAaQMBAHIAYwB1AGwAbwAgADIAIABGAGkAbABsAGUAZABfADMAMgAuAHAAbgBnAA8AEAAHAFIAQQBJAEQAXwBJAE4AEgBOL0Ryb3Bib3gvcHJval90aXBldjMvaW1ncy9pY29uczgtQXJyaWJhIGl6cXVpZXJkYSBlbiBjacyBcmN1bG8gMiBGaWxsZWRfMzIucG5nABMAEC9Wb2x1bWVzL1JBSURfSU7//wAAAAAAAAAA
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/icons8-Arriba izquierda en círculo 2 Filled_32.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

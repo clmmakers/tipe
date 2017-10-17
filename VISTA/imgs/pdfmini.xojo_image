@@ -1,0 +1,39 @@
+#tag MultiImage
+Image pdfmini
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFsAAAAAAFsAAIAAAdSQUlEX0lOAAAAAAAAAAAAAAAAAAAAAAAAAADMY7S+SCsAAAAP1bYLcGRmbWluaS5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/VmdRBFUgAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADMY5ieAAAAEQAIAADUQQc4AAAAAQAMAA/VtgAP1bUABPs2AAIAL1JBSURfSU46RHJvcGJveDoAcHJval90aXBldjM6AGltZ3M6AHBkZm1pbmkucG5nAAAOABgACwBwAGQAZgBtAGkAbgBpAC4AcABuAGcADwAQAAcAUgBBAEkARABfAEkATgASACUvRHJvcGJveC9wcm9qX3RpcGV2My9pbWdzL3BkZm1pbmkucG5nAAATABAvVm9sdW1lcy9SQUlEX0lO//8AAAAAAAAAAA==
+		FullPath = /Volumes/RAID_IN/Dropbox/proj_tipev3/imgs/pdfmini.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
